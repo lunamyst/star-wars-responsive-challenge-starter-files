@@ -1,0 +1,35 @@
+body {
+	font-family: Roboto, sans-serif; 
+}
+
+
+.title {
+	background-color: #ffb31a;
+	height: 100px;
+	width: 100%;   
+}
+
+.title h1, .title h3 {
+	padding-left: 30px;
+}
+
+/*Styling for Character Cards*/
+.character-card {
+	border: 1px solid black;
+	height: auto; 
+	margin-top: 20px; 
+}
+
+.character-card img {
+	width: 100%;
+}
+
+.character-name {
+	font-weight: 700;
+	font-size: 18px; 
+	padding-left: 10px; 
+}
+
+.character-description {
+	padding-left: 10px; 
+}
